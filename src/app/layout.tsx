@@ -40,7 +40,7 @@ export default function RootLayout({
             </div>
             <SiteNav />
             <p className="hidden px-6 py-4 text-xs text-zinc-400 md:block dark:text-zinc-600">
-              Local MVP scaffold
+              Single-user local MVP
             </p>
           </aside>
           <main className="flex-1 px-6 py-8 sm:px-10">{children}</main>
